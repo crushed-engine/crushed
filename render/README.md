@@ -4,5 +4,5 @@ The Render module is used to generate frames and display them in a window.
 
 ## Sub-modules
 
-[`render/frame`](frame)
-[`render/win`](win)
+[`render/frame`](frame) - Render pictures/frames
+[`render/win`](win) - Print frames to a window

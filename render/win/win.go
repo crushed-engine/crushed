@@ -19,3 +19,8 @@ func init() {
 		},
 	})
 }
+
+// PollEvents does event things idk
+func PollEvents() {
+	glfw.PollEvents()
+}
