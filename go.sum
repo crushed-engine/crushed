@@ -1,6 +1,4 @@
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20201108214237-06ea97f0c265 h1:BcbKYUZo/TKPsiSh7LymK3p+TNAJJW3OfGO/21sBbiA=
 github.com/go-gl/glfw/v3.3/glfw v0.0.0-20201108214237-06ea97f0c265/go.mod h1:tQ2UAYgL5IevRw8kRxooKSPJfGvJ9fJQFa0TUsXzTg8=
-github.com/manen/cleaner v0.0.0-20210302091210-71b5bf1d1ac6 h1:3FKvHDrZ4E2PpjUd1JZ04wA46pYDltJ38LXL2oiO6qY=
-github.com/manen/cleaner v0.0.0-20210302091210-71b5bf1d1ac6/go.mod h1:bVX/uu5uwwQ9B49+ii/8rGy5MP+lvNx8Y8AnZShxRRY=
-github.com/manen/cleaner v0.0.0-20210302132856-e6d5ff4cc41e h1:qoFmqSqL13Rgta6i1f0XDWIhz4wTc1y6gDu9miRAwDU=
-github.com/manen/cleaner v0.0.0-20210302132856-e6d5ff4cc41e/go.mod h1:bVX/uu5uwwQ9B49+ii/8rGy5MP+lvNx8Y8AnZShxRRY=
+github.com/manen/cleaner v0.0.0-20210302134558-b1587b2d35de h1:CkUYX9ZNjJSEYWLUE++1u1RqLYP0KTBu4djsNn3HHQc=
+github.com/manen/cleaner v0.0.0-20210302134558-b1587b2d35de/go.mod h1:bVX/uu5uwwQ9B49+ii/8rGy5MP+lvNx8Y8AnZShxRRY=
